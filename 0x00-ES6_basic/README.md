@@ -1,1 +1,0 @@
-This is a readme file for the es6 basics
