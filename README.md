@@ -1,2 +1,2 @@
-This is the readme for this repo. This is alx backend project file
-ALX backend finaly project
+This is the readme for this repo. This is alx backend project specialization
+ALX backend final project
