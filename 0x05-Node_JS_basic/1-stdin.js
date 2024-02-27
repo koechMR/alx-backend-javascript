@@ -15,3 +15,4 @@ rl.on('line', (input) => {
     console.log(`Your name is: ${input}`);
   }
 });
+module.exports = rl;
